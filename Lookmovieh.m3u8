@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:B5:05:B0&stream=115711&extension=m3u8
