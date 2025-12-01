@@ -2085,6 +2085,24 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="Sport Update",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="Sport Update",🎬🌠SPORTS TV🌠🎬
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1401.png" group-title="Sport Update",🎬🌠L'Equipe🌠🎬
+https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Sport Update",🎬🌠UNIFI SPORTS🌠🎬
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Sport Update",🎬🌠SWERVE COMBAT🌠🎬
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Sport Update",🎬🌠MMA JUNKIE🌠🎬
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Sport Update",🎬🌠UFA🌠🎬
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png" group-title="Sport Update",🎬🌠MGG E-SPORT🌠🎬
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="Sport Update",🎬🌠DRIVE AUTO🌠🎬
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png" group-title="Sport Update",🎬🌠MOTORVISION FR🌠🎬
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 
 
 
@@ -2251,60 +2269,6 @@ http://5.252.33.34:88//559684668698871/559684668698871/130
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Mix",🎬🌠NBA ONE HD USA🌠🎬
-http://49.0.64.96:8007/NBA
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="Mix",🎬🌠SportItalia 24 LIVE🌠🎬
-https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Mix",🎬🌠SportItalia Solocalcio🌠🎬
-https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="Mix",🎬🌠SportItalia🌠🎬
-https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="Mix",🎬🌠POKER TOUR ing🌠🎬
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="Mix",🎬🌠OMAN SPORT🌠🎬
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="Mix",🎬🌠KUWAIT TV SPORTS🌠🎬
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png" group-title="Mix",🎬🌠KUWAIT TV SPORT PLUS🌠🎬
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Mix",🎬🌠ROYA SPORTS🌠🎬
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Mix",🎬🌠FENERBAHÇE TV🌠🎬
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Mix",🎬🌠HT SPOR🌠🎬
-https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="Mix",🎬🌠SPORTS TV🌠🎬
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Mix",🎬🌠A SPOR🌠🎬
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="Mix",🎬🌠SPOTV🌠🎬
-https://raw.githubusercontent.com/Jonjoni123/m3u8/master/spotv.m3u8|user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36&referrer=https://github.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5D0YW20.png" group-title="Mix",🎬🌠Fox sport 3🌠🎬
-https://www.livedoomovies.com:4432/02_FoxSport3_TH_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36&referrer=https://github.com/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Mix",🎬🌠True Sports 1🌠🎬
-https://raw.githubusercontent.com/Jonjoni123/m3u8/master/tpf1.m3u8|user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36&referrer=https://github.com/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="Mix",🎬🌠True Sports 2🌠🎬
-https://raw.githubusercontent.com/Jonjoni123/m3u8/master/tpf2.m3u8|user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36&referrer=https://github.com/
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp" group-title="Mix",🎬🌠True Sports 3🌠🎬
-https://raw.githubusercontent.com/Jonjoni123/m3u8/master/tpf3.m3u8|user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36&referrer=https://github.com/
-#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1401.png" group-title="Mix",🎬🌠L'Equipe🌠🎬
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png" group-title="Mix",🎬🌠JOURNAL DU GOLF🌠🎬
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png" group-title="Mix",🎬🌠MGG E-SPORT🌠🎬
-https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="Mix",🎬🌠DRIVE AUTO🌠🎬
-https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png" group-title="Mix",🎬🌠MOTORVISION FR🌠🎬
-https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Mix",🎬🌠UNIFI SPORTS🌠🎬
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Mix",🎬🌠SWERVE COMBAT🌠🎬
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Mix",🎬🌠MMA JUNKIE🌠🎬
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5lJUmxD.jpg" group-title="Mix",🎬🌠UFA🌠🎬
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="MUSIC",KPOP PLAY
 https://live.24hrkpop.com/hls/3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="MUSIC",New K-Pop
@@ -2492,6 +2456,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
