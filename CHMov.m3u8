@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://vidruby.com:2083/Icefall.2025" , Icefall (2025)
+https://vidruby.com:2083/Icefall.2025
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fto3pNhRmildPHJuF5UrAs6DXuK.jpg0" , Belen (2025)
 https://main.24playerhd.com/m3u8/9f0f8aedffde362983bac0a1/9f0f8aedffde362983bac0a1438.m3u8
 
@@ -751,6 +752,10 @@ https://m1free.inwstream.com:1936/movie4/Girl_in_the_Box_2016/Girl_in_the_Box_20
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202503141548291TZ9Er1xEAKizzKKqYVgJIhNkN2.jpg" group-title="หนังฝรั่ง",The Electric State ท่องแดนจักรกล (2025) NETFLIX
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie4/The_Electric_State_2025/The_Electric_State_2025_TH_1080p.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2HcusTODQcx2wzDxOHx0EtKFSv.jpg" group-title="หนังไทย" ,สาปอสรพิษ (2025) Serpent Beauty
+https://vod1.stream25.com/Serpent-Beauty-2025-TH.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/1ea090a6f8874249872ff99a45debb59.webp" group-title="หนังไทย",ตี๋ใหญ่ ฤกษ์ ดาว โจร (2025)
 https://vod1.stream25.com/Tee-Yai-Born-to-Be-Bad-2025-TH.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202510/movie/678f0fe738c20eaa5a0c1392c0b192cd.webp" group-title="หนังไทย",แม่ซื้อ (2025) Host
