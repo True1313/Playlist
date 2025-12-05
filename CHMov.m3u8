@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZw51pfe1w27JPsl30Yd2z5eD0H.jpg" , Joy Ride (2023) แก๊งตัวเจ๊ เฟียสกีข้ามโลก
+https://main.24playerhd.com/m3u8/4b6777368450a28d6539e980/4b6777368450a28d6539e980438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3kM10ksmRFVA3ylCVBAlukPhKC.jpg" , My Secret Santa (2025) เมื่อคุณแม่ปลอมเป็นซานตาคลอส
+https://main.24playerhd.com/m3u8/9738f7f85455b389de0a5b6c/9738f7f85455b389de0a5b6c438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj1LurJ6Z2Yys3YTkbjAZxE7Rbf.jpg" , โอ้วอทฟัน: คริสต์มาสนี้ แม่ล่ะเพลีย (2025)
+https://main.24playerhd.com/m3u8/8b5412c899fc4311879c85f7/8b5412c899fc4311879c85f7438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LpUg5iLM0Tj8rrI9njFuwUT4Se.jpg" , เรียกมันกลับมาหลอน (2025)
 https://vod1.stream25.com/Bring-Her-Back-2025-tha.mp4.m3u8
 
