@@ -37,6 +37,11 @@ https://cdn1.googlecdnforstreaming.live/live/dklsport2/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/dklsport3/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wongcilik45/diajarkeneh/main/Nobar/sports/onesports+.png" group-title="SPORT VIP",ONE SPORTS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680313/one.png" group-title="Event",ONE HD
 http://203.150.191.28:8080/live/one31.m3u8
 
@@ -2487,6 +2492,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
