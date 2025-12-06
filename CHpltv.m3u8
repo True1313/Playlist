@@ -5,23 +5,24 @@
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
-https://cfd5.dfccfd.cfd/dbdn_x1/monomax3_480p/chunks.m3u8?nimblesessionid=2718950&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDEyOjUxOjMxIFBNJmhhc2hfdmFsdWU9S3dhWWVGQ25yVE54REtEM0xlMWdDZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIxJmlkPTE3NjUwMjU0OTExMzI%3D
+https://slave05.appball.vip/hls/VO0yVKylY_vJaIoyviI6mg/1765046006/mono4.m3u8
+
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-https://rrv8ttyi5g.cycland-masada.com/do-ball.com/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDEyOjUxOjM5IFBNJmhhc2hfdmFsdWU9S01jWlFWNWdDNjlGaGJ3Umx1UWFZQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==
+https://slave04.appball.vip/hls/_7n1zUfyqDLFllTi1EJn-Q/1765046032/mono2.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportmotorsport.m3u8
+https://slave03.appball.vip/hls/Vjd1ghibZoQEVE0y-aC6Pg/1765046053/vip.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport1_nz.m3u8
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://videox.appball.vip/hls/SEK5g_rB9hRfwn5eCUVR-Q/1765046091/mono6.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168rich.tv/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn1.m3u8
+#EXTVLCOPT:http-referrer=https://xn--24-7riy9c5b0e.live/
+https://slave02.appball.vip/hls/uMx5h45On2l6c0CBImMExQ/1765046121/mono7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="Event",BG dklsport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -2492,6 +2493,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
