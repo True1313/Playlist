@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
-
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
@@ -12,7 +9,7 @@ https://videox.appball.vip/hls/VX5ILlMtyBW1opXLRYLaeQ/1765055406/vip.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-https://cfd4.dfccfd.cfd/dbdn_x1/monomax9_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDU6MTE6MzMgUE0maGFzaF92YWx1ZT02aVVER1pzRXE1U3FsUHlUUjRWeC9nPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjEmaWQ9MTc2NTA0MTA5MzM5NQ%3D%3D
+https://cfd4.dfccfd.cfd/dbdn_x1/monomax9_480p/chunks.m3u8?nimblesessionid=132113&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDU6MjA6MjggUE0maGFzaF92YWx1ZT1ocjdrclNFZW1HeE9ldnFDOGI5NGFRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjEmaWQ9MTc2NTA0MTYyODE0MQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -2474,6 +2471,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
