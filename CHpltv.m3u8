@@ -753,7 +753,7 @@ http://45.144.166.242:1935/AmarinTV/t3_amarintv/chunklist.m3u8
 http://45.136.252.97:8081/app/one31/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680313/one.png" group-title="Utv",ONE HD
 http://45.144.166.242:1935/ONE/t3_one/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680313/one.png" group-title="Event",ONE HD
+#EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680313/one.png" group-title="Utv",ONE HD
 http://203.151.150.235:8080/memfs/bb827e84-bc81-4682-8cd1-8d4250d24a9a.m3u8
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680312/thairath.png" group-title="Utv",ThairathTV FHD
 http://45.136.252.97:8081/app/thairathtv/playlist.m3u8
@@ -2672,6 +2672,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
