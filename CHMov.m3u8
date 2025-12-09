@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svuIdql5modL08UQtYa4Opi2CtL.jpg" , Hunting Jessica Brok (2025)
+https://main.24playerhd.com/m3u8/b50ed6aad3770ce1798b3232/b50ed6aad3770ce1798b3232438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZw51pfe1w27JPsl30Yd2z5eD0H.jpg" , Joy Ride (2023) แก๊งตัวเจ๊ เฟียสกีข้ามโลก
 https://main.24playerhd.com/m3u8/4b6777368450a28d6539e980/4b6777368450a28d6539e980438.m3u8
 
@@ -1156,6 +1159,8 @@ https://m1free.inwstream.com:1936/movie3/Arnold_Is_a_Model_Student_2023/Arnold_I
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_1080.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20tTrpT0kMNFRLsSXaeabgnRw1M.jpg" group-title="หนังเอเซีย" ,กำเนิดตำนานงูเขียว
+https://main.24playerhd.com/m3u8/be7da9b952fb1f296d04459f/be7da9b952fb1f296d04459f438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwKD20JbeZAX4BswSlWKpmB8Qke.jpg" group-title="หนังเอเซีย" ,Lone Samurai (2025)
 https://main.24playerhd.com/m3u8/491a19ddc56f010ab2f64c38/491a19ddc56f010ab2f64c38438.m3u8
