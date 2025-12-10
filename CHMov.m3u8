@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" , Trap House (2025)
+https://vod1.stream25.com/Trap-House-2025-SUB.mp4.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svuIdql5modL08UQtYa4Opi2CtL.jpg" , Hunting Jessica Brok (2025)
 https://main.24playerhd.com/m3u8/b50ed6aad3770ce1798b3232/b50ed6aad3770ce1798b3232438.m3u8
