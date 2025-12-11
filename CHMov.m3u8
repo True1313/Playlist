@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAFSg74UotOKGNlyj7nhnlpcBUv.jpg" , Merv (2025) เมิร์ฟ สี่ขาสื่อหัวใจ
+https://main.24playerhd.com/m3u8/b944a83bce1177d564b1b536/b944a83bce1177d564b1b536438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" , Trap House (2025)
 https://vod1.stream25.com/Trap-House-2025-SUB.mp4.m3u8
 
@@ -771,6 +774,11 @@ https://m1free.inwstream.com:1936/movie4/Girl_in_the_Box_2016/Girl_in_the_Box_20
 https://m1free.inwstream.com:1936/movie4/The_Electric_State_2025/The_Electric_State_2025_TH_1080p.mp4/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJYsxah3eFQu5fZuAFu6Ars8WTE.jpg" group-title="หนังไทย" ,Fee Nak (2024) ฝีนาค
+https://main.24playerhd.com/m3u8/776b446405302b9d8ca39697/776b446405302b9d8ca39697438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2HcusTODQcx2wzDxOHx0EtKFSv.jpg" group-title="หนังไทย" ,สาปอสรพิษ (2025) Serpent Beauty
 https://vod1.stream25.com/Serpent-Beauty-2025-TH.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/1ea090a6f8874249872ff99a45debb59.webp" group-title="หนังไทย",ตี๋ใหญ่ ฤกษ์ ดาว โจร (2025)
