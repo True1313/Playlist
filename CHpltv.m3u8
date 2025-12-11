@@ -300,28 +300,8 @@ http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902352
 http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902351&extension=ts&play_token=PgevBfEcJe
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 9
 http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902350&extension=ts&play_token=97gNMy90Bp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 10
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902349&extension=ts&play_token=isJAgTszJ2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 11
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902348&extension=ts&play_token=7BJWXuDvqW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 12
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902347&extension=ts&play_token=Ef7r2PluO5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 13
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902346&extension=ts&play_token=euoCxcnzxg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 14
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902345&extension=ts&play_token=7aye45HPQU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 15
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902344&extension=ts&play_token=mbWM7sgMTH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 16
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902343&extension=ts&play_token=FqfwzLd8NJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 17
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902342&extension=ts&play_token=p4pWY4Losv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 18
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902341&extension=ts&play_token=8KQEfDtWcz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 19
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902340&extension=ts&play_token=4az3jZCggJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="Event",MonoMax | Event 20
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1902339&extension=ts&play_token=qkiPykeoRB
+
+
 
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="ThaiLeague",PlaysportsFootball1
@@ -3175,6 +3155,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
