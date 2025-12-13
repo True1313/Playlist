@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6oQLAzdHomKukJjw9c1iNcqg4K.jpg" , ฆาตกรรมหรรษา ใครฆ่าคนบาป (2025)
+https://main.24playerhd.com/m3u8/bc1515a8aa7260e70be1ff61/bc1515a8aa7260e70be1ff61438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvNMT0Fme7NLXyo7cjaSdco3hgL.jpg" , Primitive War (2025) สงครามโลกล้านปี
 https://main.24playerhd.com/m3u8/0d2f26efee6019a725022361/0d2f26efee6019a725022361438.m3u8
 
@@ -1178,6 +1181,11 @@ https://m1free.inwstream.com:1936/movie3/Arnold_Is_a_Model_Student_2023/Arnold_I
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_1080.mp4/playlist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpqa2ShXecFxMUGKv82Zx56ZoUD.jpg" group-title="หนังเอเซีย" ,Hi Five (2025)
+https://main.24playerhd.com/m3u8/be7da9b952fb1f296d04459f/be7da9b952fb1f296d04459f438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20tTrpT0kMNFRLsSXaeabgnRw1M.jpg" group-title="หนังเอเซีย" ,กำเนิดตำนานงูเขียว
 https://main.24playerhd.com/m3u8/be7da9b952fb1f296d04459f/be7da9b952fb1f296d04459f438.m3u8
 
@@ -1791,7 +1799,8 @@ https://m1free.inwstream.com:1936/movie4/Striking_Rescue_2024/Striking_Rescue_20
 https://m1free.inwstream.com:1936/movie4/Eye_for_an_Eye_2_2024/Eye_for_an_Eye_2_2024_TH_1080p.mp4/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589Kv3OoUgzCtNoHn8LgFto9o4x.jpg" group-title="หนังการ์ตูน" ,เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่ (2025)
+https://main.24playerhd.com/m3u8/090b904fc5052153c8a9e1bc/090b904fc5052153c8a9e1bc438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg" group-title="หนังการ์ตูน" ,The First Snow of Fraggle Rock (2025)
 https://main.24playerhd.com/m3u8/482271b2e8a1df33321b84b8/482271b2e8a1df33321b84b8438.m3u8
 
