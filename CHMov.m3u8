@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcmJRflS4aFJg8Ockk7YePQWlzc.jpg" , Murderer Report (2025)
+https://main.24playerhd.com/m3u8/8b3438823c3cf7dc41d3b218/8b3438823c3cf7dc41d3b218438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duAVf5nkwq1MnUOZNnpO0bPlPab.jpg" , Tell Me Softly (2025) อดีตรักไม่เคยเลือน
+https://main.24playerhd.com/m3u8/763f8b0c0ccfa97b7f6cbeb2/763f8b0c0ccfa97b7f6cbeb2438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ElOux95K8mfK1kuxK6K4A8MulM.jpg" , The Last Gunfight (2025) ดวลเดือด สังเวียนระห่ำ
+https://main.24playerhd.com/m3u8/e24836f5c77ae91c27136d79/e24836f5c77ae91c27136d79438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PdAODwR9amGEq5ER42FsuzV7op.jpg" ,Turbulence (2025)
+https://main.24playerhd.com/m3u8/5d2521e1f8e474533f453f16/5d2521e1f8e474533f453f16438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6oQLAzdHomKukJjw9c1iNcqg4K.jpg" , ฆาตกรรมหรรษา ใครฆ่าคนบาป (2025)
 https://main.24playerhd.com/m3u8/bc1515a8aa7260e70be1ff61/bc1515a8aa7260e70be1ff61438.m3u8
