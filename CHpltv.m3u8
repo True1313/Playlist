@@ -270,6 +270,18 @@ https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/19spotv2.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Event",BeinSport1 (warpdooball)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Event",BeinSport2 (warpdooball)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Event",BeinSport3 (warpdooball)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ebbad850-b303-11f0-b265-23dfa726a2d7_webp_original.webp" group-title="Event",TruePremierFootball3 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -3087,6 +3099,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
