@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg" , Sketch (2024)
+https://main.24playerhd.com/m3u8/8b3438823c3cf7dc41d3b218/8b3438823c3cf7dc41d3b218438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg" , Prisoner of War (2025)
+https://main.24playerhd.com/m3u8/86df05a4529c2a0e49bf44b7/86df05a4529c2a0e49bf44b7438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcmJRflS4aFJg8Ockk7YePQWlzc.jpg" , Murderer Report (2025)
 https://main.24playerhd.com/m3u8/8b3438823c3cf7dc41d3b218/8b3438823c3cf7dc41d3b218438.m3u8
 
