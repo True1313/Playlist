@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg" , Downton Abbey The Grand Finale (2025)
+https://main.24playerhd.com/m3u8/14c22d5570892794135f6553/14c22d5570892794135f6553438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" , สายด่วนลอนดอน (2025)
+https://main.24playerhd.com/m3u8/86df05a4529c2a0e49bf44b7/86df05a4529c2a0e49bf44b7438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg" , Sketch (2024)
 https://main.24playerhd.com/m3u8/8b3438823c3cf7dc41d3b218/8b3438823c3cf7dc41d3b218438.m3u8
 
@@ -1200,7 +1207,11 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="หนังเอเซีย" ,Thamma (2025)
+https://main.24playerhd.com/m3u8/10cc9ea4c8f56aaa09fe1cac/10cc9ea4c8f56aaa09fe1cac438.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcmJRflS4aFJg8Ockk7YePQWlzc.jpg" group-title="หนังเอเซีย" , Murderer Report (2025) ซับไทย
+https://25.dedkub.cyou/hd/720/1587-MurdererReport2025.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpqa2ShXecFxMUGKv82Zx56ZoUD.jpg" group-title="หนังเอเซีย" ,Hi Five (2025)
 https://main.24playerhd.com/m3u8/be7da9b952fb1f296d04459f/be7da9b952fb1f296d04459f438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20tTrpT0kMNFRLsSXaeabgnRw1M.jpg" group-title="หนังเอเซีย" ,กำเนิดตำนานงูเขียว
