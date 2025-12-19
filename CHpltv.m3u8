@@ -669,7 +669,7 @@ http://45.136.252.97:8081/app/ch5hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680272/ch5.png" group-title="Utv",CH5 HD
 http://45.144.166.242:1935/TV5/t3_tv5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680274/ch7.png" group-title="Utv",CH7 FHD
-http://45.136.252.97:8081/app/ch7hd/playlist.m3u8
+https://edge2-gmmz.v2h-cdn.com/ffac/gmmz-ch7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680274/ch7.png" group-title="Utv",CH7 HD
 #EXTVLCOPT:http-referrer=https://www.ch7.com/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
@@ -3079,6 +3079,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
