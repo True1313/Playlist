@@ -1,7 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyDL02uwMkJDUVcggnvQi6ND85n.jpg" , Murder in Monaco (2025) ฆาตกรรมในโมนาโก
+https://main.24playerhd.com/m3u8/657fa23f6c7e8b1a088e3143/657fa23f6c7e8b1a088e3143438.m3u8
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so17YY37UeeM9IVvATTHpBEJkpz.jpg" , The Great Flood (2025)
+https://main.24playerhd.com/m3u8/f634ded62e53fbec3eb6bb99/f634ded62e53fbec3eb6bb99438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZoDrAbrsSLDVjXsyvOlwjJakUK.jpg" , A Time for Bravery (2025) ถึงเวลากล้าแล้วนะ
+https://main.24playerhd.com/m3u8/6550dfcde6490ac2ab7616a1/6550dfcde6490ac2ab7616a1438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg" , Downton Abbey The Grand Finale (2025)
 https://main.24playerhd.com/m3u8/14c22d5570892794135f6553/14c22d5570892794135f6553438.m3u8
 
@@ -1207,6 +1214,12 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91aJa79gHiTUWh86XFRMaD2MGjj.jpg" group-title="หนังเอเซีย" ,Jatadhara (2025)
+https://vidruby.com:2083/Jatadhara.2025
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg" group-title="หนังเอเซีย" , Raat Akeli Hai The Bansal Murders (2025) คืนฆ่าล้างตระกูล
+https://main.24playerhd.com/m3u8/2c1266115da68a58c7602e89/2c1266115da68a58c7602e89438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="หนังเอเซีย" ,Thamma (2025)
 https://main.24playerhd.com/m3u8/10cc9ea4c8f56aaa09fe1cac/10cc9ea4c8f56aaa09fe1cac438.m3u8
 
