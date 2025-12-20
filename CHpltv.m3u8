@@ -559,6 +559,33 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png" group-title="Inwiptv",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+http://119.59.118.159/live/ch26/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/104.png" group-title="Inwiptv",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png" group-title="Inwiptv",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+http://119.59.118.159/live/ch27/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="Inwiptv",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+http://119.59.118.159/live/ch29/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="Inwiptv",Film1
+http://119.59.118.159/live/ch54/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Inwiptv",Film2
+http://119.59.118.159/live/ch55/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Inwiptv",trueMOVIEHITS
+#EXTVLCOPT:http-referrer=https://github.com/
+http://119.59.118.159/live/ch59/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Inwiptv",trueTHAIFILM
+#EXTVLCOPT:http-referrer=https://github.com/
+http://119.59.118.159/live/ch60/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Inwiptv",trueFILMASIA
 #EXTVLCOPT:http-referrer=https://github.com/
 http://119.59.118.159/live/ch61/Mariogogo007/index.m3u8
@@ -613,38 +640,15 @@ http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
 http://119.59.118.159/live/ch20/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="Inwiptv",Tennis
 http://119.59.118.159/live/ch25/Mariogogo007/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport1.png" group-title="Inwiptv",TrueSportHD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png" group-title="Inwiptv",TrueSportHD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch10/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png" group-title="Inwiptv",TrueSportHD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch11/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="Inwiptv",TrueSportHD4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch12/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport5.png" group-title="Inwiptv",TrueSportHD5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch13/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport7.png" group-title="Inwiptv",TrueSportHD7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 http://119.59.118.159/live/ch14/Mariogogo007/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Inwiptv",Bein1
 http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Inwiptv",Bein2
 http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png" group-title="Inwiptv",Bein3
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Inwiptv",Bein3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
@@ -3079,6 +3083,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
