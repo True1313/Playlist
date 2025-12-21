@@ -2222,18 +2222,6 @@ http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=908230&
 http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1311321&extension=ts&play_token=m4TzWeJIJn
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1311320.png" group-title="Iptv4K",BA| ARENA SPORT 3 HD
 http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1311320&extension=ts&play_token=RGNA1jPNr2
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1311319.png" group-title="Iptv4K",BA| ARENA SPORT 4 HD
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1311319&extension=ts&play_token=UfhvMYRzDA
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1311187.png" group-title="Iptv4K",BA| ARENA SPORT PREMIUM 1
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1311187&extension=ts&play_token=4C4FNmjhQ1
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1311186.png" group-title="Iptv4K",BA| ARENA SPORT PREMIUM 2
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1311186&extension=ts&play_token=so7q7h5y38
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1311185.png" group-title="Iptv4K",BA| ARENA SPORT PREMIUM 3
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=1311185&extension=ts&play_token=AIQLqAsc2R
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arenasport5-drukahehip.png" group-title="Iptv4K",BA| ARENA SPORT 5 PREMIER LIGA
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=110681&extension=ts&play_token=fjyL18PvM8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/908229.png" group-title="Iptv4K",BA| ARENA FIGHT
-http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:BF:E4:7E&stream=908229&extension=ts&play_token=0E7D4IM9KS
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/wrestlepedia/images/1/1e/WWE_PPV_Button.png/revision/latest/scale-to-width-down/180?cb=20180617161554" group-title="Sport Update",PPV Event 1
@@ -3069,6 +3057,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
