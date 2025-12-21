@@ -4,13 +4,13 @@
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
-https://isb46weerw.cycland-masada.com/do-ball.com/monomax-5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSAyOjEyOjU3IFBNJmhhc2hfdmFsdWU9TlRLYm9GcjZXdnFFb0N6RFRiamwwUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==
+https://cfd5.dfccfd.cfd/dbdn_x1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA0OjQ1OjM1IFBNJmhhc2hfdmFsdWU9Y3dRd1duUGJxRHBpaGlNa2lsY2ZyQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIxJmlkPTE3NjYzMzU1MzUyNDI%3D
 
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
-https://isb46weerw.cycland-masada.com/do-ball.com/monomax-5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSAyOjQ3OjExIFBNJmhhc2hfdmFsdWU9SURPYlNISWpLNHY2QUlyNURBM2lNZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==
+https://cfd5.dfccfd.cfd/dbdn_x1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA0OjQ1OjM1IFBNJmhhc2hfdmFsdWU9Y3dRd1duUGJxRHBpaGlNa2lsY2ZyQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIxJmlkPTE3NjYzMzU1MzUyNDI%3D
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO5.m3u8
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="Event",BG dklsport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -3058,6 +3058,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
