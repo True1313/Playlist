@@ -1882,12 +1882,7 @@ http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/276789
 http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/276788
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK | SPORTS",UK: Premier Sport 2 (IRE)
 http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/276787
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="UK | SPORTS",UK: DAZN1 FHD
-http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/276786
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="UK | SPORTS",UK: DAZN1 HD
-http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/276785
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="UK | SPORTS",UK: DAZN1 SD
-http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/276784
+
 #EXTINF:-1 group-title="UK | SPORTS",Now HK Premier Sports 1
 http://vocotv.pro:80/gettinmine49@yahoo.com/aLe6r3r9Tm/715574
 #EXTINF:-1 group-title="UK | SPORTS",Now HK Premier Sports 2
@@ -3407,6 +3402,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
