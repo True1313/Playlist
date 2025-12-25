@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" , Goodbye June (2025) ลาก่อน จูน
+https://main.24playerhd.com/m3u8/d5a50982c2e8c813f477dc5c/d5a50982c2e8c813f477dc5c438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRoDBpwGU5UW03hQMExN2l92Q93.jpg" , My Dead Friend Zoe (2025) 
+https://master.steamhls88.com/hlsr2/758bedf08b91ae362f20691aea90cdca/master.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50g702Thykuc49lhVpz4zMSpPtL.jpg" , Triggered (2023) สัญชาตญาณสังหาร
 https://vod1.stream25.com/Triggered-2023-SUB.mp4.m3u8
