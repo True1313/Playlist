@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg" , The Mastermind (2025) 
+https://dididino.online/r2master_66c5216e20618ea88aafd7df5238325d.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMAnQeg9vnOXYraovZWBUuRt3Ma.jpg" , The Running Man (2025)
 https://main.24playerhd.com/m3u8/81dccb8830b271caac2527da/81dccb8830b271caac2527da438.m3u8
 
@@ -1255,6 +1260,9 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlqS5YT7faZc962gBWMwAm6eS3P.jpg" group-title="หนังเอเซีย" ,ไซอิ๋ว: เมืองนรกบนสวรรค์ (2025)
+https://dididino.online/r2master_b573f57c1d7e0c09cacfb47adf33d52c.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg" group-title="หนังเอเซีย" ,Mass Jathara (2025) ตำรวจรถไฟถล่มเจ้าพ่อ
 https://main.24playerhd.com/m3u8/0b3cdbd90b2a8c105c87d07a/0b3cdbd90b2a8c105c87d07a438.m3u8
