@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OYSJJFU2E9iBGPfU9C9PM56APM.jpg" , 100 Nights of Hero (2025)
+https://main.24playerhd.com/m3u8/bcf68e9c34ac66a00fd7c3f8/bcf68e9c34ac66a00fd7c3f8438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRjh3zumdW89fNMe4tdjmALB1xG.jpg" , Aaryan (2025) หยุดชั่วโมงปีศาจ
 https://main.24playerhd.com/m3u8/6102f200f2c2a1c17321aa31/6102f200f2c2a1c17321aa31438.m3u8
@@ -1246,6 +1248,12 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grMIi3H6XrqJQTtJdkzmZtkoYL7.jpg" group-title="หนังเอเซีย" ,Rajini Gaang (2025)
+https://main.24playerhd.com/m3u8/dd1bfb8c975d6b44a82b0c8e/dd1bfb8c975d6b44a82b0c8e438.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg" group-title="หนังเอเซีย" , 10 Dance (2025) 10 แดนซ์
+https://main.24playerhd.com/m3u8/04c80c87ba74d7721de82734/04c80c87ba74d7721de82734438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg" group-title="หนังเอเซีย" ,Raat Akeli Hai The Bansal Murders (2025) คืนฆ่าล้างตระกูล
 https://main.24playerhd.com/m3u8/2c1266115da68a58c7602e89/2c1266115da68a58c7602e89438.m3u8
