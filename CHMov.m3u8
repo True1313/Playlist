@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMAnQeg9vnOXYraovZWBUuRt3Ma.jpg" , The Running Man (2025)
+https://main.24playerhd.com/m3u8/81dccb8830b271caac2527da/81dccb8830b271caac2527da438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU1nrZq6GpdxxOOef2T8OThQIgH.jpg" , Hedda (2025) เฮดดา
+https://main.24playerhd.com/m3u8/04200bf9436673d019b67e85/04200bf9436673d019b67e85438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9rTiGP3pBCO9zGqLfcRryhE3zc.jpg" , พ่อหนูนี่แหละช่วยคริสต์มาสไว้ 2 (2025)
+https://main.24playerhd.com/m3u8/6e203129a97282e18671622c/6e203129a97282e18671622c438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OYSJJFU2E9iBGPfU9C9PM56APM.jpg" , 100 Nights of Hero (2025)
 https://main.24playerhd.com/m3u8/bcf68e9c34ac66a00fd7c3f8/bcf68e9c34ac66a00fd7c3f8438.m3u8
@@ -1248,6 +1256,8 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg" group-title="หนังเอเซีย" ,Mass Jathara (2025) ตำรวจรถไฟถล่มเจ้าพ่อ
+https://main.24playerhd.com/m3u8/0b3cdbd90b2a8c105c87d07a/0b3cdbd90b2a8c105c87d07a438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grMIi3H6XrqJQTtJdkzmZtkoYL7.jpg" group-title="หนังเอเซีย" ,Rajini Gaang (2025)
 https://main.24playerhd.com/m3u8/dd1bfb8c975d6b44a82b0c8e/dd1bfb8c975d6b44a82b0c8e438.m3u8
