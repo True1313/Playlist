@@ -1038,7 +1038,98 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wongcilik45/diajarkeneh/main/Nobar/sports/onesports+.png" group-title="SPORT VIP",ONE SPORTS+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.php
+
+
+
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 (TTNET ÖZEL)
+http://nuhygo.shop:8080/arte17/1915/334642
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 SD [480p]
+http://nuhygo.shop:8080/arte17/1915/35762
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 720p
+http://nuhygo.shop:8080/arte17/1915/351541
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 HD [VIP]
+http://nuhygo.shop:8080/arte17/1915/98925
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 FHD
+http://nuhygo.shop:8080/arte17/1915/126272
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 VIP H265
+http://nuhygo.shop:8080/arte17/1915/190072
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 4K [Feed]
+http://nuhygo.shop:8080/arte17/1915/35650
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 8K [Feed]
+http://nuhygo.shop:8080/arte17/1915/191152
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 HD (Kutu Yayin)
+http://nuhygo.shop:8080/arte17/1915/456568
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports 1 HD (BoX)
+http://nuhygo.shop:8080/arte17/1915/456567
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ S-SPORT",|TR| beIN Sports 2 SD
+http://nuhygo.shop:8080/arte17/1915/196216
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ S-SPORT",|TR| beIN Sports 2 HD
+http://nuhygo.shop:8080/arte17/1915/35730
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ S-SPORT",|TR| beIN Sports 2 UHD
+http://nuhygo.shop:8080/arte17/1915/195811
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ S-SPORT",|TR| beIN Sports 3 SD
+http://nuhygo.shop:8080/arte17/1915/196217
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ S-SPORT",|TR| beIN Sports 3 HD
+http://nuhygo.shop:8080/arte17/1915/6097
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ S-SPORT",|TR| beIN Sports 3 UHD
+http://nuhygo.shop:8080/arte17/1915/195812
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ S-SPORT",|TR| beIN Sports 4 SD
+http://nuhygo.shop:8080/arte17/1915/196218
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ S-SPORT",|TR| beIN Sports 4 HD
+http://nuhygo.shop:8080/arte17/1915/6098
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ S-SPORT",|TR| beIN Sports 4 UHD
+http://nuhygo.shop:8080/arte17/1915/195813
+#EXTINF:-1 tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="TR/ S-SPORT",|TR| beIN Sports 5 HD
+http://nuhygo.shop:8080/arte17/1915/125936
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="TR/ S-SPORT",|TR| beIN Sports Max 1
+http://nuhygo.shop:8080/arte17/1915/6099
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="TR/ S-SPORT",|TR| beIN Sports Max 2
+http://nuhygo.shop:8080/arte17/1915/6100
+#EXTINF:-1 tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ S-SPORT",|TR| beIN Connect 1 |Mac Saati|
+http://nuhygo.shop:8080/arte17/1915/137710
+#EXTINF:-1 tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ S-SPORT",|TR| beIN Connect 2 |Mac Saati|
+http://nuhygo.shop:8080/arte17/1915/137711
+#EXTINF:-1 tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ S-SPORT",|TR| beIN Connect 3 |Mac Saati|
+http://nuhygo.shop:8080/arte17/1915/137712
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" group-title="TR/ S-SPORT",TR/ İdman TV HD
+http://nuhygo.shop:8080/arte17/1915/536148
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" group-title="TR/ S-SPORT",|TR| Spor Smart 1 HD
+http://nuhygo.shop:8080/arte17/1915/121246
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" group-title="TR/ S-SPORT",|TR| Spor Smart 2 HD
+http://nuhygo.shop:8080/arte17/1915/113272
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport1.png" group-title="TR/ S-SPORT",|TR| D-Smart EuroSport 1
+http://nuhygo.shop:8080/arte17/1915/6106
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport2.png" group-title="TR/ S-SPORT",|TR| D-Smart EuroSport 2
+http://nuhygo.shop:8080/arte17/1915/6107
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="TR/ S-SPORT",|TR| Tivibu Spor FHD
+http://nuhygo.shop:8080/arte17/1915/6101
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" group-title="TR/ S-SPORT",|TR| Tivibu Spor 1 FHD
+http://nuhygo.shop:8080/arte17/1915/6102
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" group-title="TR/ S-SPORT",|TR| Tivibu Spor 2 FHD
+http://nuhygo.shop:8080/arte17/1915/6103
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" group-title="TR/ S-SPORT",|TR| Tivibu Spor 3 FHD
+http://nuhygo.shop:8080/arte17/1915/113254
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="TR/ S-SPORT",|TR| Tivibu Spor 4 FHD
+http://nuhygo.shop:8080/arte17/1915/115600
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_sport.png" group-title="TR/ S-SPORT",|TR| S Sport 1 HD
+http://nuhygo.shop:8080/arte17/1915/115598
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_spor_2.png" group-title="TR/ S-SPORT",|TR| S Sport 2 HD
+http://nuhygo.shop:8080/arte17/1915/6105
+#EXTINF:-1 tvg-logo="http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="TR/ S-SPORT",|TR| S Sport+1 Mac Saati
+http://nuhygo.shop:8080/arte17/1915/137713
+#EXTINF:-1 tvg-logo="http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="TR/ S-SPORT",|TR| S Sport+2 Mac Saati
+http://nuhygo.shop:8080/arte17/1915/137714
+#EXTINF:-1 tvg-logo="http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="TR/ S-SPORT",|TR| S Sport+3 Mac Saati
+http://nuhygo.shop:8080/arte17/1915/137715
+#EXTINF:-1 tvg-logo="http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="TR/ S-SPORT",|TR| S Sport+4 Mac Saati
+http://nuhygo.shop:8080/arte17/1915/137716
+#EXTINF:-1 tvg-logo="http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="TR/ S-SPORT",|TR| S Sport+5 Mac Saati
+http://nuhygo.shop:8080/arte17/1915/137717
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="ช่องกีฬาต่างประทศ",Astro Grandstand
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -2965,6 +3056,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
