@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg" , Anaconda (2025) 
+https://main.24playerhd.com/m3u8/91fb9b2b2c16a928c949eaae/91fb9b2b2c16a928c949eaae438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVwu3mN7hr1yF467pGct3yQFM41.jpg" , Popeye the Slayer Man (2025)
+https://vod1.stream25.com/Popeye-the-Slayer-Man-2025-sub.mp4.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg" , The Mastermind (2025) 
 https://dididino.online/r2master_66c5216e20618ea88aafd7df5238325d.m3u8
