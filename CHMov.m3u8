@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNdqi9oYpynE7pDMF9vysCedFzg.jpg" , The Royal We (2025) 
+https://main.24playerhd.com/m3u8/7c524ceb0e70ffaa899ee1f1/7c524ceb0e70ffaa899ee1f1438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orDCPLq47LH9YdTJV6Cnm0znH3f.jpg" , Picture This (2025) โฟกัสรักให้ชัดสักที
+https://main.24playerhd.com/m3u8/604598501a66e32426e0b4b6/604598501a66e32426e0b4b6438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1znkPMVSZv44DfRMeTrQ6G6Da2.jpg" , Larissa The Other Side of Anitta (2025) ลาริสสา อีกด้านของอนิตต้า
+https://main.24playerhd.com/m3u8/4b3d4827696168309fc92ff9/4b3d4827696168309fc92ff9438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg" , Anaconda (2025) 
 https://main.24playerhd.com/m3u8/91fb9b2b2c16a928c949eaae/91fb9b2b2c16a928c949eaae438.m3u8
@@ -1265,6 +1273,8 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSgPlMtvKJGyiUivXDRGANUyP5v.jpg" group-title="หนังเอเซีย" ,Kadhalikka Neramillai (2025) ไม่มีเวลารัก
+https://dididino.online/r2master_b573f57c1d7e0c09cacfb47adf33d52c.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlqS5YT7faZc962gBWMwAm6eS3P.jpg" group-title="หนังเอเซีย" ,ไซอิ๋ว: เมืองนรกบนสวรรค์ (2025)
 https://dididino.online/r2master_b573f57c1d7e0c09cacfb47adf33d52c.m3u8
