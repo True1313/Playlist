@@ -1009,6 +1009,30 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:5F:2E&stream=1964
 
 
 
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" ,ASTRO PREMIER LEAGUE
+https://opening2026.tsender57.workers.dev/live/astro_pl?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" ,ASTRO PREMIER LEAGUE 2
+https://opening2026.tsender57.workers.dev/live/astro_pl2?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" ,ASTRO GRANDSTAND
+https://opening2026.tsender57.workers.dev/live/astro_gs?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" ,ASTRO BADMINTON 1
+https://opening2026.tsender57.workers.dev/live/astro_b1?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" ,ASTRO BADMINTON 2
+https://opening2026.tsender57.workers.dev/live/astro_b2?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ,ASTRO ARENA
+https://opening2026.tsender57.workers.dev/live/astro_aa1?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ,ASTRO ARENA 2
+https://opening2026.tsender57.workers.dev/live/astro_aa2?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" ,BOLA ARENA 1
+https://opening2026.tsender57.workers.dev/live/astro_ba1?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ,BOLA ARENA 2
+https://opening2026.tsender57.workers.dev/live/astro_ba2?token=MTc2ODU1MTMzNC5vZ2lla29l
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" ,ASTRO FOOTBALL
+https://opening2026.tsender57.workers.dev/live/astro_f?token=MTc2ODU1MTMzNC5vZ2lla29l
+
+
+
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORT VIP",Hub Sports 1
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORT VIP",Hub Sports 2
@@ -3120,6 +3144,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
