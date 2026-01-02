@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/12/The-Haunted-Minds-2025-300x450.png" , The Haunted Minds (2025)
+https://main.24playerhd.com/m3u8/cc2d33381c2ce7cc61f6354f/cc2d33381c2ce7cc61f6354f438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUMnCMkvXw4WxDBx9QXP8gg03GM.jpg" , The Shallows (2025) มฤตยูน้ำตื้น
 https://vod1.stream25.com/The-Shallows-2025-SUB.mp4.m3u8
@@ -877,7 +879,8 @@ https://m1free.inwstream.com:1936/movie4/Girl_in_the_Box_2016/Girl_in_the_Box_20
 https://m1free.inwstream.com:1936/movie4/The_Electric_State_2025/The_Electric_State_2025_TH_1080p.mp4/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Last-Light-2025-%E0%B8%92-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%92%E0%B9%88%E0%B8%B2-187x269.png" group-title="หนังไทย" ,Last Light (2025) ฒ ผู้เฒ่า
+https://main.24playerhd.com/m3u8/cd0045527e82b3c8b0e825e5/cd0045527e82b3c8b0e825e5438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRGHV4RrHaYo6IV8IsmyxyA8Peg.jpg" group-title="หนังไทย" ,เทย ไทบ้านเดอะซีรีส์ (2025) Nancy Boy
 https://vod1.stream25.com/Nancy-Boy-2025-TH.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xbfTDgOtiFXDjTttbORoT93nIT.jpg" group-title="หนังไทย" ,A Useful Ghost (2025) ผีใช้ได้ค่ะ
@@ -1276,6 +1279,8 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/Homebound-2025-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99-187x269.png" group-title="หนังเอเซีย" ,Homebound (2025) คืนถิ่น
+https://main.24playerhd.com/m3u8/b246c81b65a4cb972c499e44/b246c81b65a4cb972c499e44438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSgPlMtvKJGyiUivXDRGANUyP5v.jpg" group-title="หนังเอเซีย" ,Kadhalikka Neramillai (2025) ไม่มีเวลารัก
 https://dididino.online/r2master_b573f57c1d7e0c09cacfb47adf33d52c.m3u8
