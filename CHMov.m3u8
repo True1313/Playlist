@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JbuKgQBc8KlXopF1eege54HNQ5.jpg" , Preparation for the Next Life (2025)
+https://main.24playerhd.com/m3u8/117f0f7170d2cebd9a3b0787/117f0f7170d2cebd9a3b0787438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/12/The-Haunted-Minds-2025-300x450.png" , The Haunted Minds (2025)
 https://main.24playerhd.com/m3u8/cc2d33381c2ce7cc61f6354f/cc2d33381c2ce7cc61f6354f438.m3u8
 
