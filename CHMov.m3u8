@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iQDCUbiNi67mi2MZXzuTdsB4rp.jpg" , Follow My Voice (2025) ฝากใจให้เสียงนำทาง
+https://main.24playerhd.com/m3u8/117f0f7170d2cebd9a3b0787/117f0f7170d2cebd9a3b0787438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JbuKgQBc8KlXopF1eege54HNQ5.jpg" , Preparation for the Next Life (2025)
 https://main.24playerhd.com/m3u8/117f0f7170d2cebd9a3b0787/117f0f7170d2cebd9a3b0787438.m3u8
 
@@ -1283,6 +1287,9 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7d3oIeV7jdlywgHw2NXDXTjU9UD.jpg" group-title="หนังเอเซีย" ,The Land of Women (2024) ในแดนราชินี
+https://main.24playerhd.com/m3u8/557821519df5c205b8d55ff0/557821519df5c205b8d55ff0438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/Homebound-2025-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99-187x269.png" group-title="หนังเอเซีย" ,Homebound (2025) คืนถิ่น
 https://main.24playerhd.com/m3u8/b246c81b65a4cb972c499e44/b246c81b65a4cb972c499e44438.m3u8
 
@@ -1933,6 +1940,13 @@ https://m1free.inwstream.com:1936/movie4/Striking_Rescue_2024/Striking_Rescue_20
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20250303101921cqycEDHYiKyRENGLaB2BmxE3XuW.jpg" group-title="หนังเอเซีย",Eye for an Eye 2 (Mu zhong wu ren 2) ยอดกระบี่ไร้เทียมทาน 2 (2024)
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie4/Eye_for_an_Eye_2_2024/Eye_for_an_Eye_2_2024_TH_1080p.mp4/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkBRX077Px0l766Ydbf25VVB9GG.jpg" group-title="หนังการ์ตูน" ,100 Meters (2025) 100 เมตร
+https://main.24playerhd.com/m3u8/286abb643dd8fa56fb4ea513/286abb643dd8fa56fb4ea513438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35iccvr0IA6h1jttvkL8eM0GIMK.jpg" group-title="หนังการ์ตูน" ,SPY x FAMILY CODE: White (2023)
 https://vod1.stream25.com/SPY-x-FAMILY-CODE-WHITE-2023-TH.mp4.m3u8
