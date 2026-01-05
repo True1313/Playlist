@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoNiNdiWLEHU5EBfZ82Gx08ymDo.jpg" , Trap House (2025) ดักแผนล่า ท้าทรชน
+https://vod1.stream25.com/Trap-House-2025-TH.mp4.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f18LeJhnI9opCLcIDym3uVH301V.jpg" , The Tiger (2025) รถถังเจ้าพยัคฆ์
+https://main.24playerhd.com/m3u8/604598501a66e32426e0b4b6/604598501a66e32426e0b4b6438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4SUgmGGhMS4t9g0DJzAjRS5Hcj.jpg" , Alma and The Wolf (2025) อัลมาและมนุษย์หมาป่า
+https://main.24playerhd.com/m3u8/d775aab91f7971f91ccf33b9/d775aab91f7971f91ccf33b9438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iQDCUbiNi67mi2MZXzuTdsB4rp.jpg" , Follow My Voice (2025) ฝากใจให้เสียงนำทาง
 https://main.24playerhd.com/m3u8/117f0f7170d2cebd9a3b0787/117f0f7170d2cebd9a3b0787438.m3u8
@@ -1285,8 +1293,8 @@ https://m1free.inwstream.com:1936/movie3/Arnold_Is_a_Model_Student_2023/Arnold_I
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_1080.mp4/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8u4SGpoP86dmTRp91GC5UN80FzO.jpg" group-title="หนังเอเซีย" ,Dongji Rescue (2025) ตงจี๋ เรสคิว พลิกนรกกู้ชีพ
+https://vod1.stream25.com/Dongji-Rescue-2025-SUB.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7d3oIeV7jdlywgHw2NXDXTjU9UD.jpg" group-title="หนังเอเซีย" ,The Land of Women (2024) ในแดนราชินี
 https://main.24playerhd.com/m3u8/557821519df5c205b8d55ff0/557821519df5c205b8d55ff0438.m3u8
 
