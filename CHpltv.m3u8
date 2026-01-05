@@ -840,64 +840,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18677875/thaiban.png" group-title="Utv",ไทบ้านทีวี
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680454/esantv.png" group-title="Utv",อีสานทีวี
-https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRpsQhRP/IMG-2711.png" group-title="Utv",TTD1
-https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc5bLxfV/IMG-2712.png" group-title="Utv",TTD2
-https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr5W3hPW/IMG-2713.png" group-title="Utv",TTD3
-https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvd8hhmY/IMG-2548.png" group-title="Utv",TTD4
-https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFfkK0MK/IMG-2550.png" group-title="Utv",TTD5
-https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1YHCCTM/IMG-2714.png" group-title="Utv",TTD6
-https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz5SXfRG/IMG-2415.png" group-title="Utv",TTD7
-https://psiiptv-b.sky-cdn.com/ttd07-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx5hQC2R/IMG-2418.png" group-title="Utv",TTD8
-https://psiiptv-b.sky-cdn.com/ttd08-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zfKLYJ/IMG-2715.png" group-title="Utv",TTD9
-https://psiiptv-b.sky-cdn.com/ttd09-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQTg2yjq/IMG-2717.png" group-title="Utv",TTD10
-https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tmsQvxm/IMG-2421.png" group-title="Utv",TTD11
-https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwDxknbX/IMG-3264.png" group-title="Utv",TTD12
-https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28YzHbS4/IMG-2722.png" group-title="Utv",V2H1
-https://psiiptv-b.sky-cdn.com/v2h1-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgTZ8ZfZ/IMG-2068.png" group-title="Utv",V2H2
-https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R05GfBRV/IMG-2723.png" group-title="Utv",V2H3
-https://psiiptv-b.sky-cdn.com/v2h3-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8J0vbdg/IMG-2720.png" group-title="Utv",V2H4
-https://psiiptv-b.sky-cdn.com/v2h4-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLZcTNjD/IMG-2724.png" group-title="Utv",V2H5
-https://psiiptv-b.sky-cdn.com/v2h5-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfRcmg85/IMG-2719.png" group-title="Utv",V2H6
-https://psiiptv-b.sky-cdn.com/v2h6-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLpLwmgy/IMG-2725.png" group-title="Utv",V2H7
-https://psiiptv-b.sky-cdn.com/v2h7-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV2k0qWW/IMG-2726.png" group-title="Utv",V2H8
-https://psiiptv-b.sky-cdn.com/v2h8-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzLR2ts8/IMG-2727.png" group-title="Utv",V2H9
-https://psiiptv-b.sky-cdn.com/v2h9-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp0FKH7m/IMG-2718.png" group-title="Utv",V2H10
-https://psiiptv-b.sky-cdn.com/v2h10-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXq7Rpmt/IMG-2729.png" group-title="Utv",V2H11
-https://psiiptv-b.sky-cdn.com/v2h11-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSTR6mwF/IMG-2731.png" group-title="Utv",V2H12
-https://psiiptv-b.sky-cdn.com/v2h12-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXdnwRCf/IMG-2732.png" group-title="Utv",V2H13
-https://psiiptv-b.sky-cdn.com/v2h13-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15T8500D/IMG-2733.png" group-title="Utv",V2H14
-https://psiiptv-b.sky-cdn.com/v2h14-playlist/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL1V7qmR/IMG-2734.png" group-title="Utv",V2H15
-https://psiiptv-b.sky-cdn.com/v2h15-playlist/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/e7d9339267.png" group-title="📺 PREMIUM PLAY TV",ลูกทุ่งเน็ตเวิร์ก
@@ -3137,6 +3079,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
