@@ -1034,6 +1034,68 @@ http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:14:66:4B&stream=843536&exte
 
 
 
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="UK Football",Hub Premier  EPL 01
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/110288
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="UK Football",Hub Premier  EPL 02
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/110289
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png" group-title="UK Football",Hub Premier  EPL 03
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/110290
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png" group-title="UK Football",Hub Premier  EPL 04
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/110291
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png" group-title="UK Football",Hub Premier  EPL 05
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/110292
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub6.png" group-title="UK Football",Hub Premier  EPL 06
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/110293
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football",Now Premier League 1 [Events Only]
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/117457
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football",Now Premier League 2 [Events Only]
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/117458
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football",Now Premier League 3 [Events Only]
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/117459
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football",Now Premier League 4 [Events Only]
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/117460
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football",Now Premier League 5 [Events Only]
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/117461
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football",Now Premier League 6 [Events Only]
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/117462
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="UK Football",SuperSport Action
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70938
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="UK Football",SuperSport Blitz
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70932
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="UK Football",SuperSport Cricket
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/102200
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="UK Football",SuperSport Football
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70936
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="UK Football",SuperSport Golf
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70939
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="UK Football",SuperSport GrandStand
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/102201
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="UK Football",SuperSport La Liga
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70937
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="UK Football",SuperSport Motorsport
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/102202
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="UK Football",SuperSport Premier League
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70934
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="UK Football",SuperSport PSL
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70933
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="UK Football",SuperSport Rugby
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/102199
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="UK Football",SuperSport Tennis
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70935
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="UK Football",SuperSport Variety 1
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70928
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="UK Football",SuperSport Variety 2
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70929
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="UK Football",SuperSport Variety 3
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70930
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="UK Football",SuperSport Variety 4
+http://stb.velocity.watch:8080/2054203993/goxFfWwx4H/70931
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1660493.png" group-title="LineSportMonomax",TH| TRUE PREMIERE LEAGUE 1 HD
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:B6:5F:2E&stream=1660493&extension=ts&play_token=ccSHUxyYuv
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRUE-PREMIERE-LEAGUE.png" group-title="LineSportMonomax",TH| TRUE PREMIERE LEAGUE 2 HD
@@ -3227,6 +3289,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
