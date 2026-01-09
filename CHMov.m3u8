@@ -1,9 +1,7 @@
 #EXTM3U
 
-
-
-
-
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brBQ79UmzdpHx4Pl3kKRU8F9ubD.jpg" , เฒ่ามหากาฬ 2 (2025)
+https://vod1.stream25.com/Sisu-2-Road-to-Revenge-2025-TH.mp4.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFtXfKYrNF7skeriRR7OwCVx420.jpg" , The Long Walk (2025) เกมเดินมรณะ
 https://main.24playerhd.com/m3u8/b8168869f31c4f5bbc47a9e2/b8168869f31c4f5bbc47a9e2438.m3u8
@@ -1315,6 +1313,17 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCbexaWYBNejyH8nx48oQYPqBdc.jpg" group-title="หนังเอเซีย" ,กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ
+https://m3u8haha.com/movie/M15604.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2026/01/Di-Renjie-of-Extraordinary-Flowers-On-The-Faramita-2026-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2-%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%87-300x450.png" group-title="หนังเอเซีย" , ตี๋เหรินเจี๋ย ดอกพลับพลึงแดนพิศวง
+https://main.24playerhd.com/m3u8/dada966bdc9c457287fc35fb/dada966bdc9c457287fc35fb168.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt1Jqtb2JFkb6OALqrRYJ4ThRFE.jpg" group-title="หนังเอเซีย" ,รักแรก แปลกหน้า (2025)
+https://main.24playerhd.com/m3u8/d934fcc86e3182dc3682f5f2/d934fcc86e3182dc3682f5f2168.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL4CSHwwSI3oX6Z15svQWBVKF9t.jpg" group-title="หนังเอเซีย" ,นักปล้นคนที่หก (2025)
+https://main.24playerhd.com/m3u8/f17fb487361a94b833966595/f17fb487361a94b833966595168.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntPcAPfWUHsyswG5IYQfcZlBLmH.jpg" group-title="หนังเอเซีย" ,Exquisite bodyguard (2023) บอดี้การ์ดสาวสายบู๊
 https://main.24playerhd.com/m3u8/581ecf7579ed4fb1b7fa5c94/581ecf7579ed4fb1b7fa5c94438.m3u8
