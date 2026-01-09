@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brBQ79UmzdpHx4Pl3kKRU8F9ubD.jpg" , เราพบกัน ณ วันพักใจ
+https://main.24playerhd.com/m3u8/a10e25e10c58f7c82fbea966/a10e25e10c58f7c82fbea966438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWLujiEzI1kIfaJT7V8SapC7Wir.jpg" , Wicked For Good (2025) วิคเค็ด ภาค 2
+https://main.24playerhd.com/m3u8/dad3e2121aefbf9b168d4421/dad3e2121aefbf9b168d4421438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5IZBZkoUAwalOV1zQUjAFUbY8I.jpg" , Good Boy (2025) มะหมาเห็นผี
+https://main.24playerhd.com/m3u8/e7714bf094174b6966ceba6b/e7714bf094174b6966ceba6b438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brBQ79UmzdpHx4Pl3kKRU8F9ubD.jpg" , เฒ่ามหากาฬ 2 (2025)
 https://vod1.stream25.com/Sisu-2-Road-to-Revenge-2025-TH.mp4.m3u8
 
