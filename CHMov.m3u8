@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Bleeding-Tiger-Resolution-2025-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.png" , หลั่งเลือดพยัคฆ์ ปัจฉิมบทชำระแค้น
+https://main.24playerhd.com/m3u8/5394940819df9d19a2b459a7/5394940819df9d19a2b459a7438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPBxrEFRy59oqJYfhkQet02Aie4.jpg" , Go For Grandma (2025) ยายทราบแล้วเปลี่ยน
+https://main.24playerhd.com/m3u8/84e4ded6b6cf44a54f8f7de0/84e4ded6b6cf44a54f8f7de0438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="http://103.114.203.129:8080/images/fa40024061a56620c2a1810148f6cdf9.jpg" , เราพบกัน ณ วันพักใจ
 https://main.24playerhd.com/m3u8/a10e25e10c58f7c82fbea966/a10e25e10c58f7c82fbea966438.m3u8
@@ -1321,6 +1326,9 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83xhucBgTL0Il9E298JT8DYv76B.jpg" group-title="หนังเอเซีย" ,Kill the Drug Lords (2023) ตำรวจผู้พิทักษ์
+https://main.24playerhd.com/m3u8/cc7e32c1238620d7e40215e8/cc7e32c1238620d7e40215e8438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCbexaWYBNejyH8nx48oQYPqBdc.jpg" group-title="หนังเอเซีย" ,กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ
 https://m3u8haha.com/movie/M15604.mp4/playlist.m3u8
