@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bjcOe8n2Wwh5kKL1tmmeriz5Zn.jpg" ,  ล่าตุลาแดง​
+https://main.24playerhd.com/m3u8/bba8d661839999fe052e4753/bba8d661839999fe052e4753438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Bleeding-Tiger-Resolution-2025-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.png" , หลั่งเลือดพยัคฆ์ ปัจฉิมบทชำระแค้น
 https://main.24playerhd.com/m3u8/5394940819df9d19a2b459a7/5394940819df9d19a2b459a7438.m3u8
 
@@ -926,6 +931,11 @@ https://m1free.inwstream.com:1936/movie4/Girl_in_the_Box_2016/Girl_in_the_Box_20
 https://m1free.inwstream.com:1936/movie4/The_Electric_State_2025/The_Electric_State_2025_TH_1080p.mp4/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaQheZpKECFzwU4KWcQ0rpYqDhD.jpg" group-title="หนังไทย" ,นากรักมาก ม๊ากมาก
+https://main.24playerhd.com/m3u8/6c339de755ba0da8ce2a546b/6c339de755ba0da8ce2a546b438.m3u8
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Last-Light-2025-%E0%B8%92-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%92%E0%B9%88%E0%B8%B2-187x269.png" group-title="หนังไทย" ,Last Light (2025) ฒ ผู้เฒ่า
 https://main.24playerhd.com/m3u8/cd0045527e82b3c8b0e825e5/cd0045527e82b3c8b0e825e5438.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRGHV4RrHaYo6IV8IsmyxyA8Peg.jpg" group-title="หนังไทย" ,เทย ไทบ้านเดอะซีรีส์ (2025) Nancy Boy
@@ -1326,6 +1336,21 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="หนังเอเซีย" ,โจรกรรมมายากล
+https://main.24playerhd.com/m3u8/035df811070dec7faa21c289/035df811070dec7faa21c289438.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pQuiq2eLsLQwZRDmvxz0pH16Vj.jpg" group-title="หนังเอเซีย" , พิฆาตเงาชั่ว
+https://main.24playerhd.com/m3u8/2d30cfc7b1ccd88a4eeabe9d/2d30cfc7b1ccd88a4eeabe9d168.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWCgVvtdnqygEK3V8RmlmfATyL0.jpg" group-title="หนังเอเซีย" ,ปฏิบัติการช่วยเธอจากนรก
+https://main.24playerhd.com/m3u8/2b29add5a2ec499b9c2798a8/2b29add5a2ec499b9c2798a8438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B9%84%E0%B8%97%E0%B9%88%E0%B8%9C%E0%B8%B4%E0%B8%87-187x269.png" group-title="หนังเอเซีย" , เรื่องเล่าลึกลับตำบลไท่ผิง
+https://main.24playerhd.com/m3u8/ca1be2749ea94a14989c62ca/ca1be2749ea94a14989c62ca438.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Thunder-Rescue-2026-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2-187x269.png" group-title="หนังเอเซีย" ,ภารกิจช่วยเหลือเหนือสายฟ้า
+https://main.24playerhd.com/m3u8/6deb8bcf379a07f2d8daa329/6deb8bcf379a07f2d8daa329168.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83xhucBgTL0Il9E298JT8DYv76B.jpg" group-title="หนังเอเซีย" ,Kill the Drug Lords (2023) ตำรวจผู้พิทักษ์
 https://main.24playerhd.com/m3u8/cc7e32c1238620d7e40215e8/cc7e32c1238620d7e40215e8438.m3u8
