@@ -524,125 +524,6 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/103.png" group-title="Inwiptv",HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-http://119.59.118.159/live/ch26/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/104.png" group-title="Inwiptv",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png" group-title="Inwiptv",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-http://119.59.118.159/live/ch27/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="Inwiptv",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-http://119.59.118.159/live/ch29/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="Inwiptv",Film1
-http://119.59.118.159/live/ch54/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Inwiptv",Film2
-http://119.59.118.159/live/ch55/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Inwiptv",trueMOVIEHITS
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch59/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Inwiptv",trueTHAIFILM
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch60/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Inwiptv",trueFILMASIA
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch61/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Inwiptv",trueSeries
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch63/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="Inwiptv",trueASIANMORE
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch64/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="Inwiptv",trueX-ZYTE
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch66/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="Inwiptv",CCM
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch62/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1f7642c0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="Inwiptv",Animal Show
-http://119.59.118.159/live/ch30/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/12/13/05fdd920-b971-11ef-9ff3-970a2933a4a7_webp_original.webp" group-title="Inwiptv",Discovery
-http://119.59.118.159/live/ch51/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.webp" group-title="Inwiptv",History
-http://119.59.118.159/live/ch52/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="Inwiptv",Thainess
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://119.59.118.159/live/ch50/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Inwiptv",TrueSci
-http://119.59.118.159/live/ch56/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="Inwiptv",TrueEXPLOREWILD
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch57/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Inwiptv",trueEXPLORELIFE
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch58/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSLw2KS/IMG-2162.png" group-title="Inwiptv",Discovery Asia
-http://119.59.118.159/live/ch24/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="Inwiptv",True​spark
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-http://119.59.118.159/live/ch53/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Inwiptv",Dreamworks
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch65/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png" group-title="Inwiptv",Spotv1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://119.59.118.159/live/ch18/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv2.png" group-title="Inwiptv",SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png" group-title="Inwiptv",TRUE Golf Channel
-http://119.59.118.159/live/ch20/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="Inwiptv",Tennis
-http://119.59.118.159/live/ch25/Mariogogo007/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Inwiptv",Bein1
-http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Inwiptv",Bein2
-http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Inwiptv",Bein3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/350px-National_Football_League_logo.svg.png" group-title="Inwiptv",NFL
-http://119.59.118.159/live/ch21/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/350px-National_Football_League_logo.svg.png" group-title="Inwiptv",NFL
-http://119.59.118.159/live/ch22/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png" group-title="Inwiptv",ONE Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://119.59.118.159/live/ch31/Mariogogo007/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport1.png" group-title="Inwiptv",TrueSportHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png" group-title="Inwiptv",TrueSportHD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch10/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png" group-title="Inwiptv",TrueSportHD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch11/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport5.png" group-title="Inwiptv",TrueSportHD5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch13/Mariogogo007/index.m3u8
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport7.png" group-title="Inwiptv",TrueSportHD7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://119.59.118.159/live/ch14/Mariogogo007/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="ช่องบันเทิง",HBO
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -2716,6 +2597,7 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
