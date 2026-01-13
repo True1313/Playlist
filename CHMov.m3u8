@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqWEJinLVMWBetH4odloVdq6mNj.jpg" , Jesus Revolution​
+https://main.24playerhd.com/m3u8/d6c09c2875585363465443c9/d6c09c2875585363465443c9438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIOzHM90VlEAagZAgwjXSimll20.jpg" , ฝูงบินผาดแผลง ธันเดอร์เบิร์ด
+https://m3u8haha.com/movie/M15630.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bjcOe8n2Wwh5kKL1tmmeriz5Zn.jpg" ,  ล่าตุลาแดง​
 https://main.24playerhd.com/m3u8/bba8d661839999fe052e4753/bba8d661839999fe052e4753438.m3u8
@@ -1336,6 +1341,11 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4kRAXsQE97CpHv3s5L0cW9w38.jpg" group-title="หนังเอเซีย" ,The Tale of Silyan 
+https://main.24playerhd.com/m3u8/464a1550a5beaa8c5edf5cca/464a1550a5beaa8c5edf5cca438.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tO7OI5MyzPSiVmlXXnlBKlAJH92.jpg" group-title="หนังเอเซีย" , Haq (2025)
+https://m3u8haha.com/movie/M15625.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etYvFBOh4pWtdADtmIXOhbv0E8A.jpg" group-title="หนังเอเซีย" ,บันทึกหนานจิง
 https://m3u8haha.com/movie/M15637.mp4/playlist.m3u8
