@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg" , Rebuilding (2025)​
+https://main.24playerhd.com/m3u8/633a5a1d56607e7df44105ed/633a5a1d56607e7df44105ed438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIOzHM90VlEAagZAgwjXSimll20.jpg" , Song Sung Blue (2025)
+https://main.24playerhd.com/m3u8/d1d901a6cef26d3cedbff982/d1d901a6cef26d3cedbff982438.m3u8 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pM7B1ZQZqo7kgyGlygEwk3gAR1.jpg" , P77 (2025) พ77
+https://main.24playerhd.com/m3u8/eec2941dcd6040622f8457f3/eec2941dcd6040622f8457f3438.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqWEJinLVMWBetH4odloVdq6mNj.jpg" , Jesus Revolution​
 https://main.24playerhd.com/m3u8/d6c09c2875585363465443c9/d6c09c2875585363465443c9438.m3u8
 
@@ -1341,6 +1351,12 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7e9W9NYYTPMPjTw6xsSUhTGJG.jpg" group-title="หนังเอเซีย" ,Illuminant Object (2026) เหตุการณ์เขาเซี่ยงซานเรืองแสง 
+https://main.24playerhd.com/m3u8/9fe542394406a26e9e753c66/9fe542394406a26e9e753c66168.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4kRAXsQE97CpHv3s5L0cW9w38.jpg" group-title="หนังเอเซีย" ,The Tale of Silyan 
 https://main.24playerhd.com/m3u8/464a1550a5beaa8c5edf5cca/464a1550a5beaa8c5edf5cca438.m3u8 
 
@@ -2053,7 +2069,8 @@ https://m1free.inwstream.com:1936/movie4/Eye_for_an_Eye_2_2024/Eye_for_an_Eye_2_
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xv3XJRSgG4DpgKa5J6zlerKIC6p.jpg" group-title="หนังการ์ตูน" ,จดหมายของยอน
+https://vod1.stream25.com/Your-Letter-2025-SUB.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkBRX077Px0l766Ydbf25VVB9GG.jpg" group-title="หนังการ์ตูน" ,100 Meters (2025) 100 เมตร
 https://main.24playerhd.com/m3u8/286abb643dd8fa56fb4ea513/286abb643dd8fa56fb4ea513438.m3u8
