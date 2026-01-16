@@ -2,6 +2,15 @@
 
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y46LNXNuYtUdSe0MsvKqcQIlUX.jpg" , The Rip (2026) เงินบาปกระชากคน​
+https://main.24playerhd.com/m3u8/3544b8b0cd26e525a7a11027/3544b8b0cd26e525a7a11027438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg" ,  ตำนานเครื่องจักรสังเวียนเดือด
+https://main.24playerhd.com/m3u8/8fe1808dc8b9979dd164c0a6/8fe1808dc8b9979dd164c0a6438.m3u8 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://bbk100.xyz/media/cache/strip/202601/movie/be8af69f18ee16eb662bc80dc21c5ee2.webp" , Trust (2025) ล่อเธอไปเชือด
+https://vod1.stream25.com/Trust-2025-TH.mp4.m3u8
+
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg" , Rebuilding (2025)​
 https://main.24playerhd.com/m3u8/633a5a1d56607e7df44105ed/633a5a1d56607e7df44105ed438.m3u8
 
@@ -1354,6 +1363,9 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Yunmeng-Romance-2026-187x269.png" group-title="หนังเอเซีย" ,ล่าขุมทรัพย์ แดนเมฆา 
+https://main.24playerhd.com/m3u8/14a58963121e489bed176001/14a58963121e489bed176001438.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7e9W9NYYTPMPjTw6xsSUhTGJG.jpg" group-title="หนังเอเซีย" ,Illuminant Object (2026) เหตุการณ์เขาเซี่ยงซานเรืองแสง 
 https://main.24playerhd.com/m3u8/9fe542394406a26e9e753c66/9fe542394406a26e9e753c66168.m3u8
 
@@ -2068,6 +2080,13 @@ https://m1free.inwstream.com:1936/movie4/Striking_Rescue_2024/Striking_Rescue_20
 https://m1free.inwstream.com:1936/movie4/Eye_for_an_Eye_2_2024/Eye_for_an_Eye_2_2024_TH_1080p.mp4/playlist.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4opAzolezkfzs9nnoiv3gfJogon.jpg" group-title="หนังการ์ตูน" ,Smurfs (2025) สเมิร์ฟ
+https://main.24playerhd.com/m3u8/79d704ffa81e99b0fdf3414a/79d704ffa81e99b0fdf3414a438.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xv3XJRSgG4DpgKa5J6zlerKIC6p.jpg" group-title="หนังการ์ตูน" ,จดหมายของยอน
 https://vod1.stream25.com/Your-Letter-2025-SUB.mp4.m3u8
