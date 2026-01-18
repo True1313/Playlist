@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvKfxdKaV20YikapsiYA23ETXG.jpg" , Fog of War (2025)​
+https://main.24playerhd.com/m3u8/cf8db630a6fbd697ecfbb2ec/cf8db630a6fbd697ecfbb2ec438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJ3uHEY9LLP0BpdPy0KlJzYnmkv.jpg" ,  Bheed (2023)
+https://main.24playerhd.com/m3u8/c1f2c4e2b1246d53e4ed4c1c/c1f2c4e2b1246d53e4ed4c1c438.m3u8 
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/The-Healing-2025-187x269.png" , The Healing (2025)
+https://main.24playerhd.com/m3u8/6b375a0190790923cb3d5b54/6b375a0190790923cb3d5b54438.m3u8
 
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y46LNXNuYtUdSe0MsvKqcQIlUX.jpg" , The Rip (2026) เงินบาปกระชากคน​
 https://main.24playerhd.com/m3u8/3544b8b0cd26e525a7a11027/3544b8b0cd26e525a7a11027438.m3u8
@@ -1362,6 +1370,8 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjWX2IAZphVJydldUZBTwzDIFHb.jpg" group-title="หนังเอเซีย" ,Single Salma (2025)
+https://main.24playerhd.com/m3u8/16a3f8c470c085c01c511689/16a3f8c470c085c01c511689438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Yunmeng-Romance-2026-187x269.png" group-title="หนังเอเซีย" ,ล่าขุมทรัพย์ แดนเมฆา 
 https://main.24playerhd.com/m3u8/14a58963121e489bed176001/14a58963121e489bed176001438.m3u8
